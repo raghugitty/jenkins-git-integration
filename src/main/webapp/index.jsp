@@ -1,1 +1,1 @@
-Successfully integrated Jenkins with Github. 
+My war deployed on tomcat. 
